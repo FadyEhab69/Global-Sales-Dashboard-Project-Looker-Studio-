@@ -46,6 +46,8 @@ TV & Video: $9.1M
 
 Cell Phones: $5.8M
 
+Dashboard link : https://lookerstudio.google.com/reporting/240429c4-11bf-49d1-ac02-10a6705c6e8b
+
 # Visualizations
  Profit by Category – Line chart over time to highlight profitability trends in product categories
 
